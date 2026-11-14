@@ -1,0 +1,2 @@
+# Black-Scholes-Merton-option-pricing-model-applied-to-Goldman-Sachs-GS-options-built-in-Python
+This project implements the Black-Scholes-Merton (BSM) model to price European options on Goldman Sachs (GS) stock. It pulls market inputs (stock price, strike, time to expiration, risk-free rate, and volatility), computes theoretical call and put values, and compares them to observed market prices. Built in Google Colab as a tech/quant project.
